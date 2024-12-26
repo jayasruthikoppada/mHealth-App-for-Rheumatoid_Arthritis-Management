@@ -1,0 +1,122 @@
+PROJECT SCOPE:
+
+# Project Justification: The development of the Mobile Health (mHealth) Checklist App for
+Rheumatoid Arthritis Management is a critical initiative aimed at enhancing the
+quality of life for individuals living with Rheumatoid Arthritis (RA). This
+project is justified by the need for a personalized, accessible tool that can assist
+patients in tracking their daily health activities, managing their medication
+schedules, and accessing educational content about RA. The mHealth app will
+serve as a companion for RA patients, providing them with actionable insights
+and the convenience of managing their condition through their mobile devices.
+The integration of this technology with Electronic Health Records (EHR) will
+ensure a seamless care experience, while the adherence to healthcare regulations
+like HIPAA will guarantee the security and privacy of patient data.
+
+# Product Description: The mHealth Checklist App will be a comprehensive, cross-platform application
+designed to provide RA patients with a daily management toolkit. It will feature
+medication reminders, symptom tracking, and the ability to log physical
+activities and dietary intake. The app will also include a library of resources to
+educate patients about RA and its management. Designed with user experience
+in mind, the app will ensure easy navigation and interaction, making RA
+management more accessible and less burdensome.
+
+# Project Deliverables: 
+⮚ A cross-platform mHealth Checklist App tailored for RA management.
+⮚ Daily health management tools for tracking symptoms, medications, and
+lifestyle adjustments.
+⮚ Data security measures that comply with HIPAA and other healthcare
+regulations.
+⮚ A library of educational content focused on RA.
+⮚ Integration with EHR systems for up-to-date patient health information.
+Out-of-scope Items: ⮚ Features unrelated to RA management.
+⮚ Provision of hardware or other IT infrastructure not directly related to
+the app's functionality.
+⮚ Overhauling existing EHR systems beyond the requirements for
+integration with the app.
+
+# Project Objectives: 
+➢ Create an engaging and supportive digital environment for RA patients
+to manage their condition.
+➢ Enhance the patient-provider communication channel through the app's
+reporting features.
+➢ Provide a tool that is easily adaptable to individual patient needs and
+treatment plans.
+➢ The tool will facilitate symptom and medication tracking, provide
+educational content, and ensure seamless integration with EHRs, all
+while prioritizing user experience and data security.
+Cost Objectives An investment of $155,000 will cater to all project stages from assessment and
+design to implementation, testing, and deployment, ensuring the delivery of a
+cost-effective and high-quality mobile health application within the allocated
+budget.
+
+# Schedule Objectives 
+1. Initial Assessment and Planning (02/02/2024 - 02/10/2024): Begin with
+gathering detailed requirements from stakeholders, establishing the project's
+scope, and outlining a comprehensive project plan.
+2. Design and Prototyping (02/11/2024 - 02/25/2024): Develop the app's
+design, focusing on user interface and experience, and create a prototype for
+initial user testing.
+3. Development (02/26/2024 - 03/18/2024): Engage in active development of
+the app, incorporating feedback from the prototyping phase and building out the
+primary features and functionalities.
+4. Testing and Refinement (03/19/2024 - 04/02/2024): Perform extensive
+testing, including user acceptance and security tests, to ensure the app's
+reliability and effectiveness. Refine the app based on feedback.
+5. Launch and Evaluation (04/03/2024 - 04/24/2024): Officially release the app
+on both iOS and Android platforms, monitor its performance, and gather user
+feedback for future improvements.
+
+# Acceptance Criteria
+1.Comprehensive Functionality: The app must include key features
+such as medication tracking, symptom logging, and customizable
+health checklists, as outlined in the project requirements.
+2.User Experience and Accessibility: The app should be intuitive and
+easy to navigate for RA patients, ensuring high usability with a clear,
+accessible interface design.
+3.Reliable Performance and Integration: The app must perform
+consistently and integrate seamlessly with existing Electronic Health
+Records (EHR) systems without technical issues.
+4. Data Security and Compliance: All personal health information
+within the app must be securely encrypted, and the app must be in
+full compliance with HIPAA regulations.
+5. Positive User Feedback: After the launch, the app should receive
+positive feedback from most of its user base, confirming that it meets
+the needs and expectations of RA patients and healthcare providers.
+
+# Constraints: 
+1.Budgetary Constraints: The project must not exceed the allocated
+budget of $155,000, which requires careful resource management
+and prioritization of features.
+2. Time Constraints: Completion of all project phases must adhere
+to the specified timeline, with the project launch scheduled for no
+later than 04/24/2024.
+3. Scope Constraints: The project is limited to features and
+functionalities that specifically support Rheumatoid Arthritis
+management. Any scope creep involving unrelated functionalities
+must be avoided.
+4. Technical Constraints: The app must be compatible across both
+iOS and Android platforms, requiring cross-platform technology that
+may limit certain features or designs.
+5.Regulatory Constraints: The app must comply with healthcare
+regulations, such as HIPAA in the United States, which govern the
+security and privacy of patient health information.
+6.Quality Constraints: The final product must meet predefined
+quality standards, ensuring that the app is reliable, effective, and
+user-friendly for RA patients.
+
+# Assumptions: 
+1. Stakeholder Engagement: Key stakeholders, such as RA patients
+and healthcare providers, will be actively involved and provide
+essential feedback throughout the project lifecycle.
+2. Resource Availability: Required skilled personnel and technological
+resources will be consistently available to support the project's
+development and implementation phases.
+3. User Adoption: The target user base, RA patients, will be receptive
+to adopting the app and integrating it into their daily health
+management routines.
+4. Regulatory Compliance: The app will maintain compliance with
+healthcare regulations such as HIPAA throughout the project, with
+no significant changes to regulatory standards expected.
+5. Budget Sufficiency: The allocated budget of $155,000 will be
+adequate to cover all necessary development, testing, and
+deployment activities to deliver a fully functional app.
